@@ -1,4 +1,4 @@
-async function getUsers() {
+async function getPlaces() {
 	let response = await fetch('change thi');
 	let data = await response.json();
 	return data;
